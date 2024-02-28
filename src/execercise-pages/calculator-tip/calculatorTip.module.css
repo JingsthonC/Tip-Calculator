@@ -1,0 +1,27 @@
+* {
+  margin-top: 3px;
+  margin-bottom: 3px;
+  margin-left: 5px;
+}
+p {
+  font-size: 24px;
+}
+
+h1 {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+button {
+  font-size: 40px;
+  border-radius: 10px;
+  padding: 5px 8px;
+}
+
+input {
+  font-size: 24px;
+}
+
+select {
+  font-size: 24px;
+}
